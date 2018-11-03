@@ -2,19 +2,10 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> 
+    <html class="no-js" lang="en"> <!--<![endif]-->
     <head>
-        <meta charset="utf-8">
-        <title>John Doe by SNDY</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image/png" href="favicon.ico">
-
-        <!--Google Font link-->
-        <link href="https://fonts.googleapis.com/css?family=Knewave" rel="stylesheet">
-        <!--font-family: 'Knewave', cursive;-->
-
-
+        <title>59160993</title>
         <link rel="stylesheet" href="assets/css/animate.css">
         <link rel="stylesheet" href="assets/css/iconfont.css">
         <link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -77,7 +68,7 @@
                     <div class="navbar-header">
 
                         <a class="navbar-brand" href="#brand">
-                            JD
+                            Ekarat
                         </a>
 
                     </div>
@@ -89,7 +80,7 @@
                 <div class="side">
                     <a href="#" class="close-side"><i class="fa fa-times"></i></a>
                     <div class="widget">
-                        <h6 class="title">John Doe Portfolio</h6>
+                        <h6 class="title">59160993 Portfolio</h6>
                         <ul class="link main-nav">
                             <li><a href="#home">Home</a></li>
                             <li><a href="#about">About</a></li>
@@ -177,19 +168,19 @@
                     </div><!-- End off row -->
                 </div><!-- End off container -->
             </section><!-- End off About us Section -->
-        <!-- JS includes -->
+            <!-- JS includes -->
 
-        <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
-        <script src="assets/js/vendor/bootstrap.min.js"></script>
+            <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
+            <script src="assets/js/vendor/bootstrap.min.js"></script>
 
-        <script src="assets/js/jquery.magnific-popup.js"></script>
-        <script src="assets/js/jquery.easing.1.3.js"></script>
-        <script src="assets/js/bootsnav.js"></script>
+            <script src="assets/js/jquery.magnific-popup.js"></script>
+            <script src="assets/js/jquery.easing.1.3.js"></script>
+            <script src="assets/js/bootsnav.js"></script>
 
 
 
-        <script src="assets/js/plugins.js"></script>
-        <script src="assets/js/main.js"></script>
+            <script src="assets/js/plugins.js"></script>
+            <script src="assets/js/main.js"></script>
 
     </body>
 </html>
